@@ -1,5 +1,5 @@
 ***
-##  *Popular Videogames 1980 - 2023*
+## 🕹️*Popular Videogames 1980 - 2023*🕹️
 ***
 
 - Este proyecto es creado con el proposito de aplicar la teoria y practica acerca del manejo, almacenamiento e interpretacion de los datos respetando las etapas dentro del ciclo de vida del mismo. 
